@@ -1,3 +1,7 @@
 asdfgh
 asdqweq
+<<<<<<< HEAD
 zxcdqweqweq
+=======
+zxcdqweqweq
+>>>>>>> 981032f83bac505efdfd42cb2f0759950157e107
