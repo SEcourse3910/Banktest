@@ -2,9 +2,3 @@ asdfgh
 sss
 qweqw
 
-<<<<<<< HEAD
-xxx
-=======
-xxx
-eee
->>>>>>> b2
