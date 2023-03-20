@@ -1,9 +1,3 @@
 asdfgh
 sss
-qweqw
 
-<<<<<<< HEAD
-asdffg
-=======
-ddddd
->>>>>>> d291977077897b93267120db50fa9c96fbda47d5
